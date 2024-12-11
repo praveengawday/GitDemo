@@ -1,2 +1,2 @@
 # GitDemo
-GitDemo - Learning git from basic
+GitDemo - Learning git from basics
